@@ -15,3 +15,9 @@ An interactive Looker dashboard designed to analyze and monitor Supply Chain Man
 
 ## 📷 Dashboard Preview  
 ![Dashboard Screenshot](SCM_Order_Trends_Dashboard.png)  
+
+##📌 Use Cases
+- **Track Order Trends:** Identify fluctuations in order volume across different months and years.
+- **Analyze Shipment Preferences:** Optimize logistics based on shipment mode popularity.
+- **Regional & Segment Performance:** Gain insights into top-performing states, cities, and customer segments.
+- **Improve Supply Chain Efficiency:** Make data-driven decisions to streamline order fulfillment.
